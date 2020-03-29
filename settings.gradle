@@ -1,0 +1,2 @@
+rootProject.name='Webview app with google admob ads'
+include ':app'
